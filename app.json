@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Fast Food Solutions",
+    "slug": "Proyecto2",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./images/Icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./images/Icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#F2F2F2"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./images/Icon.png",
+        "backgroundColor": "#F2F2F2"
+      },
+      "package": "com.bchdavid.Proyecto2"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "81159e60-017d-4766-8f60-c7b663436371"
+      }
+    }
+  }
+}
